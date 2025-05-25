@@ -21,8 +21,9 @@ The data used originates from publicly available de-identified FONASA discharge 
 - Each row corresponds to a hospitalization event
 - Diagnosis fields: `DIAGNOSTICO1` through `DIAGNOSTICO35`
 
-> **Note**: Due to privacy restrictions, raw data are not included in this repository. You may access the original data from [FONASA Tableau Portal]([https://public.tableau.com/views/PropuestaTableroGRD](https://public.tableau.com/views/PropuestaTableroGRD/PropuestaTableroGRD?%3AshowVizHome=no#1)![image](https://github.com/user-attachments/assets/65751d6f-630b-4999-b617-2a213eeb3d17)
-).
+> **Note**: You may access the original data from the [FONASA Tableau Portal](https://public.tableau.com/views/PropuestaTableroGRD/PropuestaTableroGRD?%3AshowVizHome=no#1).
+
+
 
 ## ⚙️ Code Structure
 
