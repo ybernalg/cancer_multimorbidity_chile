@@ -21,7 +21,8 @@ The data used originates from publicly available de-identified FONASA discharge 
 - Each row corresponds to a hospitalization event
 - Diagnosis fields: `DIAGNOSTICO1` through `DIAGNOSTICO35`
 
-> **Note**: Due to privacy restrictions, raw data are not included in this repository. You may access the original data from [FONASA Tableau Portal](https://public.tableau.com/views/PropuestaTableroGRD).
+> **Note**: Due to privacy restrictions, raw data are not included in this repository. You may access the original data from [FONASA Tableau Portal]([https://public.tableau.com/views/PropuestaTableroGRD](https://public.tableau.com/views/PropuestaTableroGRD/PropuestaTableroGRD?%3AshowVizHome=no#1)![image](https://github.com/user-attachments/assets/65751d6f-630b-4999-b617-2a213eeb3d17)
+).
 
 ## ⚙️ Code Structure
 
@@ -70,12 +71,12 @@ The data used originates from publicly available de-identified FONASA discharge 
 
 If you use or adapt this code, please cite:
 
-> Bernal YA, Campaña C, Sanhueza C, Apablaza M, Armisén R, Delgado I. Multimorbidity patterns among cancer-related hospitalization events in younger and older patients: A large-scale nationwide database study. *The Lancet Regional Health – Americas*, 2025.
+> ----
 
 ## 📬 Contact
 
 For questions or collaboration inquiries:  
-**Yanara A. Bernal** – yanara@omicspath.ai  
-GitHub: [@yanaracode](https://github.com/yanaracode)
+**Yanara A. Bernal** – ybernalg@udd.cl
+
 
 ---
