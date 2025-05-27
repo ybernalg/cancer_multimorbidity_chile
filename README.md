@@ -17,7 +17,7 @@ This analysis supports the manuscript:
 
 The data used originates from publicly available de-identified FONASA discharge records. Diagnosis codes are formatted in ICD-10.
 
-- Main dataset: `data_2019_2023_edad.csv`
+- Main dataset: `data_2019_2023_edad.csv` (raw data compacted)
 - Each row corresponds to a hospitalization event
 - Diagnosis fields: `DIAGNOSTICO1` through `DIAGNOSTICO35`
 
